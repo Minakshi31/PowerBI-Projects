@@ -12,5 +12,6 @@ Contribute: Feel free to contribute your own Power BI projects or enhancements t
 Get Started: Begin your journey into the world of Power BI by exploring the projects in this repository. Whether you're a beginner looking to learn the fundamentals or an advanced user seeking inspiration for your next dashboard, you'll find a wealth of knowledge and resources to fuel your curiosity and passion for data visualization with Power BI.
 
 Happy exploring and happy reporting!
+
 Minakshi
 
