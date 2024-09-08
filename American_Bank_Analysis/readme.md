@@ -2,11 +2,11 @@ In this project, I utilized Power BI to analyze and visualize the financial and 
 
 # Key Objectives:
 
-# Demographic Segmentation: Categorized customers based on gender, age, education, and marital status to understand their distribution and characteristics.
-# Financial Insights: Analyzed key financial metrics such as total customer balances, loan statuses, and homeownership trends.
-# Job Classification Analysis: Segmented customers by their job type (white-collar, blue-collar, others) to identify patterns in income, loan defaults, and financial health.
-# State-Level Analysis: Visualized customer distribution and behavior across California, Nevada, and Oregon.
-# Loan Default Analysis: Identified the number of loan defaulters and analyzed their correlation with other factors such as job classification and education level.
+Demographic Segmentation: Categorized customers based on gender, age, education, and marital status to understand their distribution and characteristics.
+Financial Insights: Analyzed key financial metrics such as total customer balances, loan statuses, and homeownership trends.
+Job Classification Analysis: Segmented customers by their job type (white-collar, blue-collar, others) to identify patterns in income, loan defaults, and financial health.
+State-Level Analysis: Visualized customer distribution and behavior across California, Nevada, and Oregon.
+Loan Default Analysis: Identified the number of loan defaulters and analyzed their correlation with other factors such as job classification and education level.
 
 # Tools & Techniques:
 Power BI for data visualization and dashboard creation.
